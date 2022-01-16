@@ -42,7 +42,8 @@
   
 <p>
   <a href="https://github.com/unimatrix2">
-    [![Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+    <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=unimatrix2&theme=radical&show_icons=true&include_all_commits=true&count_private=true">
+    <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krsnananda&theme=radical&hide=PHP&show_icons=true&include_all_commits=true&count_private=true">
   </a>
 </p>
 
