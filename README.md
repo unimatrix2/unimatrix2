@@ -4,7 +4,7 @@
 
 * Brazilian
 * Full-Stack Web Developer (Curerently JS/TS focused) & currently working as one
-* [MeuPolitico](https://github.com/meu-politico-next-mui) creator (W.I.P Warning, it's very early work)
+* [MeuPolitico](https://github.com/meu-politico-next-mui) creator (W.I.P Warning, it's very early work. Alpha version won feature project on Hackshow)
 * Music Producer/Composer (when I have the time :sweat_smile:)
 * They/Them(en) Ela/Ele(pt) pronous please 😄
 
