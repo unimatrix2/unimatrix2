@@ -52,7 +52,7 @@
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
 - Cloud Solutions &nbsp;
   - ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon) (Lambda, API Gateway, EK2 beginner)
-  - ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=Google) (Cloud Run, Load Balancer, NEG)
+  - ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=Google) (Cloud Run, Load Balancer, NEG, Secrets)
   - ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform) (beginner)
   - ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=Vercel)
 - Containerization &nbsp;
@@ -63,6 +63,28 @@
   ![Kanban](https://img.shields.io/badge/-Kanban-333333?style=flat&logo=Kanban)
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira)
   ![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=Confluence)
+  
+<br>
+  
+## Experience
+
+- Banking (consultant, 9mo)
+  #### Activities
+  - Develop internal products in AngularJS (12)
+  - Maintain CI/CD pipelines in AWS
+  - Develop data APIs to integrate legacy systems
+
+- Retail (fullstack, 1yr)
+  #### Activities
+  - Develop complex, data-driven internal fronts in React/Next/Nest
+  - Develop APIs integrating data-driven databases to fronts
+  - Product stack migration (NestJS, NextJS, Vite)
+  - Implement cloud auth solutions on fronts
+  - Maintain CI/CD pipelines (Github Actions, ArgoCD)
+  - Maintain infra code (Terraform)
+  - Implement API documentation tools on APIs (Swagger)
+
+<br>
   
 ## Learning
 
