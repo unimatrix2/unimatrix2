@@ -83,6 +83,16 @@
   - Maintain CI/CD pipelines (Github Actions, ArgoCD)
   - Maintain infra code (Terraform)
   - Implement API documentation tools on APIs (Swagger)
+  
+- Freelance
+  - Local Podcast & Videomaking studio
+    #### Activities
+    - Design & develop a NextJS frontend
+    - Create CI/CD pipeline (Github Actions, GCP Cloud Run)
+    - Create & maintain GCP network infra
+    - Manage Google Workspaces
+    - Manage Google Domains
+    - Report tasks using Jira
 
 <br>
   
