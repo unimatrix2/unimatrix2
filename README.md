@@ -68,6 +68,10 @@
 
 ![Qwik](https://img.shields.io/badge/-Qwik-333333?style=flat&logo=qwik)
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
+
+<br>
+  
+## Stats
   
 <p>
   <a href="https://github.com/unimatrix2">
