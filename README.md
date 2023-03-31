@@ -27,7 +27,6 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=plastic&logo=typescript)
   ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=563D7C)
-  ![AWS](https://img.shields.io/badge/-aws-333333?style=flat&logo=aws)
 - Databases &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![PrismaORM](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
