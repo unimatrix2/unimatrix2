@@ -39,6 +39,18 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - Editing Tools &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- Cloud Solutions &nbsp;
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon)(Lambda, API Gateway, EK2 begginer)
+  ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=Google)(Cloud Run, Load Balancer, NEG)
+  ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=Vercel)
+- Containerization &nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker) (begginer)
+  ![Argo](https://img.shields.io/badge/-Argo-333333?style=flat&logo=Argo) (begginer)
+- Agile &nbsp;
+  ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=Scrum)
+  ![Kanban](https://img.shields.io/badge/-Kanban-333333?style=flat&logo=Kanban)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira)
+  ![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=Confluence)
   
 <p>
   <a href="https://github.com/unimatrix2">
