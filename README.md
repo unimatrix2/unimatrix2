@@ -98,7 +98,10 @@
   
 ## Learning
 
+![Postgres](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql)
 ![Qwik](https://img.shields.io/badge/-Qwik-333333?style=flat&logo=qwik)
+![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=svelte)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
 
 <br>
