@@ -83,6 +83,14 @@
   - Maintain CI/CD pipelines (Github Actions, ArgoCD)
   - Maintain infra code (Terraform)
   - Implement API documentation tools on APIs (Swagger)
+ 
+- Finances (frontend, 4mo)
+  #### Activities
+  - Developing in a large & complex financial application codebase, using Angular with a proprietary Desgin System implemented in SASS
+    - Feature development
+    - Enhancements
+    - Fixes
+    - Refactoring
   
 - Freelance
   - Local Podcast & Videomaking studio
