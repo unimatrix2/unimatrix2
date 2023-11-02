@@ -24,7 +24,7 @@
 - Tools &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
-  ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
+  ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=vercel)
   ![ExpressJS](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
   ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=NestJS)
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=plastic&logo=javascript)
