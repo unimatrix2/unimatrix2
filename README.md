@@ -3,17 +3,17 @@
 ## About
 
 * Brazilian
-* Full-Stack Web Developer (Curerently JS/TS focused) & currently working as one
-* [MeuPolitico](https://github.com/meu-politico-next-mui) creator (W.I.P Warning, it's very early work. Alpha version won feature project on Hackshow)
-* Music Producer/Composer (when I have the time :sweat_smile:)
+* Full-Stack Web Dev & Cloud Solutions
+* Music Producer/Composer
 * They/Them(en) Ela/Ele(pt) pronous please 😄
 
 <br>
 
 ## Interests
 
+* Home labs
 * Study & work with Cybersec/Infosec
-* Making new projects aimed to better our society (will contribute to O.S./F.S. when I have the skills)
+* Making new projects aimed to better our society
 * Scanning nebulas for coffee :vulcan_salute:
 * Studying & participating in cool debates from physics to sociology & epistemology
 
@@ -30,25 +30,46 @@
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=plastic&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=plastic&logo=typescript)
   ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)
-  ![MUIv5](https://img.shields.io/badge/-MUIv5-333333?style=flat&logo=MUI)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=563D7C)
+  ![MUI](https://img.shields.io/badge/-MUIv5-333333?style=flat&logo=MUI)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Deno](https://img.shields.io/badge/-Deno-333333?style=flat&logo=deno)
   ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=Webpack)
+  ![Rspack](https://img.shields.io/badge/-Rspack-333333?style=flat&logo=Webpack)
   ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=Vite)
+  ![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest)
+  ![Jest](https://img.shields.io/badge/-jest-333333?style=flat&logo=jest)
 - Databases &nbsp;
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  - ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose)
   - ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+  - ![TypeORM]
   - ![Postgres](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql)
   - ![OracleSQL](https://img.shields.io/badge/-OracleSQL-333333?style=flat&logo=oracle)
 - Repository Tools &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitLab](https://img.shields.io/badge/-gitlab-333333?style=flat&logo=gitlab)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![OneDev](https://img.shields.io/badge/-OneDev-333333?style=flat&logo=onedev)
+  ![Bitbucket](https://img.shields.io/badge/-bitbucket-333333?style=flat&logo=bitbucket)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- Editing Tools &nbsp;
+- Coding Tools &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Github Copilot](https://img.shields.io/badge/-Github%20Copilot-333333?style=flat&logo=githubcopilot)
+  ![Cline](https://img.shields.io/badge/-Cline-333333?style=flat&logo=cline)
+  ![Kiro](https://img.shields.io/badge/-Kiro-333333?style=flat&logo=kiro)
+  ![Goose](https://img.shields.io/badge/-Goose-333333?style=flat&logo=goose)
+  ![OpenCode](https://img.shields.io/badge/-OpenCode-333333?style=flat&logo=opencode)
+
+- AI Tools &nbsp;
+  ![oMLX](https://img.shields.io/badge/-oMLX-333333?style=flat&logo=omlx)
+  ![oLLama](https://img.shields.io/badge/-oLLama-333333?style=flat&logo=ollama)
+  ![Hermes](https://img.shields.io/badge/-Hermes-333333?style=flat&logo=hermes)
+  ![LibreChat](https://img.shields.io/badge/-LibreChat-333333?style=flat&logo=librechat)
+
 - OSs
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
   ![Solus](https://img.shields.io/badge/-Solus-333333?style=flat&logo=Solus)
+  ![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=macos)
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
 - Cloud Solutions &nbsp;
   - ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon)
@@ -57,8 +78,8 @@
   - ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=Vercel)
 - Containerization &nbsp;
   - ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
-  - ![K3S](https://img.shields.io/badge/-k3s-333333?style=flat&logo=K3s) (beginner)
-  - ![Argo](https://img.shields.io/badge/-Argo-333333?style=flat&logo=Argo) (beginner)
+  - ![K3S](https://img.shields.io/badge/-k3s-333333?style=flat&logo=K3s)
+  - ![Argo](https://img.shields.io/badge/-Argo-333333?style=flat&logo=Argo)
 - Agile &nbsp;
   ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=Scrum)
   ![Kanban](https://img.shields.io/badge/-Kanban-333333?style=flat&logo=Kanban)
