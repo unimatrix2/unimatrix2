@@ -56,7 +56,8 @@
   - ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform) (beginner)
   - ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=Vercel)
 - Containerization &nbsp;
-  - ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker) (beginner)
+  - ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
+  - ![K3S](https://img.shields.io/badge/-k3s-333333?style=flat&logo=K3s) (beginner)
   - ![Argo](https://img.shields.io/badge/-Argo-333333?style=flat&logo=Argo) (beginner)
 - Agile &nbsp;
   ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=Scrum)
@@ -107,7 +108,6 @@
 ## Learning
 
 ![Postgres](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![Qwik](https://img.shields.io/badge/-Qwik-333333?style=flat&logo=qwik)
 ![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=svelte)
