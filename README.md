@@ -42,7 +42,7 @@
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   - ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose)
   - ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
-  - ![TypeORM]
+  - ![TypeORM](https://img.shields.io/badge/-TypeORM-333333?style=flat&logo=typeorm)
   - ![Postgres](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql)
   - ![OracleSQL](https://img.shields.io/badge/-OracleSQL-333333?style=flat&logo=oracle)
 - Repository Tools &nbsp;
