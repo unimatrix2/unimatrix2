@@ -37,8 +37,8 @@
 - Databases &nbsp;
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   - ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
-  - ![Postgres](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql) (beginner)
-  - ![OracleSQL](https://img.shields.io/badge/-OracleSQL-333333?style=flat&logo=oracle) (beginner)
+  - ![Postgres](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql)
+  - ![OracleSQL](https://img.shields.io/badge/-OracleSQL-333333?style=flat&logo=oracle)
 - Repository Tools &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitLab](https://img.shields.io/badge/-gitlab-333333?style=flat&logo=gitlab)
@@ -51,9 +51,9 @@
   ![Solus](https://img.shields.io/badge/-Solus-333333?style=flat&logo=Solus)
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
 - Cloud Solutions &nbsp;
-  - ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon) (Lambda, API Gateway, EK2 beginner)
-  - ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=Google) (Cloud Run, Load Balancer, NEG, Secrets)
-  - ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform) (beginner)
+  - ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon)
+  - ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=Google)
+  - ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
   - ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=Vercel)
 - Containerization &nbsp;
   - ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
