@@ -90,39 +90,99 @@
   
 ## Experience
 
-- Banking (consultant, 9mo)
-  #### Activities
-  - Develop internal products in AngularJS (12)
-  - Maintain CI/CD pipelines in AWS
-  - Develop data APIs to integrate legacy systems
+### Banking (fullstack, 9mo)
 
-- Retail (fullstack, 1yr)
-  #### Activities
-  - Develop complex, data-driven internal fronts in React/Next/Nest
-  - Develop APIs integrating data-driven databases to fronts
-  - Product stack migration (NestJS, NextJS, Vite)
-  - Implement cloud auth solutions on fronts
-  - Maintain CI/CD pipelines (Github Actions, ArgoCD)
-  - Maintain infra code (Terraform)
-  - Implement API documentation tools on APIs (Swagger)
+#### Problems I solved
+  I was responsible for migrating features and capabilities from the bank's internal payment platform into a modern Angular (v12) application with a NodeJS BFF behind it, integrating data from and to the bank's legacy COBOL mainframe, also maintaining the code pipeline.
+
+#### Technologies involved
+  - Angular v12 (Frontend)
+  - NodeJS (BFF, no framework involved)
+  - AWS Code Pipeline
+  - AWS Lambda
+  - AWS S3
+
+#### Architecture Patterns & SDLC practices involved
+  - BFF (Backend for frontend)
+  - CI/CD (Continuous integration / Continuous delivery)
+  - SPA (Single-page application)
+  - Serverless
+  - Agile (SCRUM)
+
+### Retail (fullstack, 1yr)
+
+#### Problemas I solved
+  I was responsible for migrating and developing new features and capabilities for the new iteration of the company's internal logistics and operations platform, which coordinated the supply chain and sales analytics. The project was data-intensive and relied on a NestJS backend for interacting with databases and stored procedures. This challenge also involved migrating the React SPA project that bootstrapped the iteration into a NextJS application in order to offload complex logic to a BFF layer and providing an authentication PoC with AWS Cognito to sync with the company's existing IdP outside the AWS Cloud.
+#### Technologies involved
+  - React
+  - NextJS
+  - NestJS
+  - OracleDB
+  - AWS Cognito
+  - ArgoCD
+  - Github Actions
+  - Terraform
+  - API documentation tools on APIs (Swagger)
+  - AWS Lambda
+  - Kubernetes
+  - Jira
+  - Slack
+
+#### Architecture Patterns & SDLC practices involved
+  - BFF (Backend for frontend)
+  - CI/CD (Continuous integration / Continuous delivery)
+  - GitOps (Git Operations)
+  - DevOps (Developer Operations)
+  - IaC (Infrastructure as Code)
+  - Serverless
+  - Agile (SCRUM)
+  - IdP/SSO (Identity Provider / Single Sign On)
  
-- Finances (frontend, 4mo)
-  #### Activities
-  - Developing in a large & complex financial application codebase, using Angular with a proprietary Desgin System implemented in SASS
-    - Feature development
-    - Enhancements
-    - Fixes
-    - Refactoring
+### Finances (frontend, 4mo)
+
+#### Problems I solved
+  I was responsible for developing new features for a multi-tenant financial system with many tax, document and external system integrations. The challenge involved currency calculation and formatting, document (mainly PDF) upload, print and download, and specialized UX and Design System for financial/banking/accountant publics.
+
+#### Technologies involved
+  - Angular (v8)
+  - Java (Spring)
+  - Kafka
+  - PostgreSQL
+  - Figma
+  - Github Actions
+  - Jira/Trello
+  - Rocket Chat
+
+#### Architecture Patterns & SDLC practices involved
+
+  - CI/CD (Continuous integration / Continuous delivery)
   
-- Freelance
+  - TBD (Trunk-based development)
+  - Multi-tenant applications
+  - Agile (Kanban, SCRUM)
+  - Async communication
+  
+### Freelance
+
+#### Problems I solved
+
+I worked on some freelance jobs involving a website for a Podcast studio and a Tech Consultancy, building both commercial and corporate websites for the clients. These also involved setting up domains, cloud accounts and cloud workspace, Google Analytics, SEO, internationalization, building project backlog in Jira and more for the websites and their administration.
+
+#### Technologies involved
+  - React
+  - NextJS
+  - MUI (Material UI)
+  - shadcn components
+  - Tailwind v3/v4
+  - Vercel
+  - Github Actions
+  - GCP Cloud Run
+  - Google Workspaces
+  - Google Domains
   - Local Podcast & Videomaking studio
-    #### Activities
-    - Design & develop a NextJS frontend
-    - Create CI/CD pipeline (Github Actions, GCP Cloud Run)
-    - Create & maintain GCP network infra
-    - Manage Google Workspaces
-    - Manage Google Domains
-    - Report tasks using Jira
+  - Jira
+
+
 
 <br>
   
