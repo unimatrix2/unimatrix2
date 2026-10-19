@@ -112,7 +112,8 @@
 ### Retail (Mid Fullstack, 1yr)
 
 #### Problemas I solved
-  I was responsible for migrating and developing new features and capabilities for the new iteration of the company's internal logistics and operations platform, which coordinated the supply chain and sales analytics. The project was data-intensive and relied on a NestJS backend for interacting with databases and stored procedures. This challenge also involved migrating the React SPA project that bootstrapped the iteration into a NextJS application in order to offload complex logic to a BFF layer and providing an authentication PoC with AWS Cognito to sync with the company's existing IdP outside the AWS Cloud.
+  I was responsible for migrating and developing new features and capabilities for the new iteration of the company's internal logistics and operations platform, which coordinated the supply chain and sales analytics. The project was data-intensive and relied on legacy databases and systems. This challenge also involved migrating project stacks to modern frontend solutions with a BFF layer and cross-cloud IdP solutions.
+  
 #### Technologies involved
   - React
   - NextJS
@@ -141,7 +142,7 @@
 ### Finances (Mid Frontend, 4mo)
 
 #### Problems I solved
-  I was responsible for developing new features for a multi-tenant financial system with many tax, document and external system integrations. The challenge involved currency calculation and formatting, document (mainly PDF) upload, print and download, and specialized UX and Design System for financial/banking/accountant publics.
+  I was responsible for developing new features for a multi-tenant financial system with many tax, document and external system integrations. The challenge involved currency calculation and formatting, document upload/download/printing, and specialized UX/Design System for financial/banking/accountant publics.
 
 #### Technologies involved
   - Angular (v8)
