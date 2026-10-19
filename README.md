@@ -90,7 +90,7 @@
   
 ## Experience
 
-### Banking (fullstack, 9mo)
+### Banking (Jr. Fullstack, 9mo)
 
 #### Problems I solved
   I was responsible for migrating features and capabilities from the bank's internal payment platform into a modern Angular (v12) application with a NodeJS BFF behind it, integrating data from and to the bank's legacy COBOL mainframe, also maintaining the code pipeline.
@@ -109,7 +109,7 @@
   - Serverless
   - Agile (SCRUM)
 
-### Retail (fullstack, 1yr)
+### Retail (Mid Fullstack, 1yr)
 
 #### Problemas I solved
   I was responsible for migrating and developing new features and capabilities for the new iteration of the company's internal logistics and operations platform, which coordinated the supply chain and sales analytics. The project was data-intensive and relied on a NestJS backend for interacting with databases and stored procedures. This challenge also involved migrating the React SPA project that bootstrapped the iteration into a NextJS application in order to offload complex logic to a BFF layer and providing an authentication PoC with AWS Cognito to sync with the company's existing IdP outside the AWS Cloud.
@@ -138,7 +138,7 @@
   - Agile (SCRUM)
   - IdP/SSO (Identity Provider / Single Sign On)
  
-### Finances (frontend, 4mo)
+### Finances (Mid Frontend, 4mo)
 
 #### Problems I solved
   I was responsible for developing new features for a multi-tenant financial system with many tax, document and external system integrations. The challenge involved currency calculation and formatting, document (mainly PDF) upload, print and download, and specialized UX and Design System for financial/banking/accountant publics.
@@ -156,7 +156,6 @@
 #### Architecture Patterns & SDLC practices involved
 
   - CI/CD (Continuous integration / Continuous delivery)
-  
   - TBD (Trunk-based development)
   - Multi-tenant applications
   - Agile (Kanban, SCRUM)
@@ -173,7 +172,7 @@ I worked on some freelance jobs involving a website for a Podcast studio and a T
   - NextJS
   - MUI (Material UI)
   - shadcn components
-  - Tailwind v3/v4
+  - Tailwind (v3/v4)
   - Vercel
   - Github Actions
   - GCP Cloud Run
@@ -182,7 +181,11 @@ I worked on some freelance jobs involving a website for a Podcast studio and a T
   - Local Podcast & Videomaking studio
   - Jira
 
+### Pharma (Sr. Fullstack, 3y/current)
 
+#### Problems I solved
+
+The challenges here involved legacy refactoring, building features for modern frontends and coordinating multi-team efforts to implement sync/async systems 
 
 <br>
   
